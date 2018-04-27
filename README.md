@@ -1,6 +1,10 @@
 
 # react-native-smart-config
 
+## Announcement
+
+Still underdevelopment. Would update the announcement when it's ready.
+
 ## Getting started
 
 `$ npm install react-native-smart-config --save`
