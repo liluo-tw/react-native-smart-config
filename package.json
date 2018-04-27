@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-smart-config",
   "version": "1.0.0",
@@ -8,13 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "smart-config"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "luoli",
+    "email": "cluo.cassie@gmail.com",
+    "url": "https://github.com/CassieLuoli"
+  },
+  "license": "Apache-2.0",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CassieLuoli/react-native-smart-config.git"
   }
 }
